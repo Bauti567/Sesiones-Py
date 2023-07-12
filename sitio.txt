@@ -1,0 +1,32 @@
+Pip sistema gestor de paquetes Python
+- Actualizar Python
+- Instalar Flask
+- Instalar Flask-MySql
+
+Dentro de templates se encuentran todas las plantillas <!-- ========== Start 
+
+- Crear capeta templates
+- La carpeta de templates se respeta para que flask imgrese a buscar las plantillas
+
+-Dentro de templates crear la carpeta admin, Es el dashboard de administrador
+-Crear la carpeta sitio, dentro de sitio se almacenan los datos de la app
+
+
+Dentro de Admin se administran las vistas de HTML 
+
+Python app.py // Para correr la aplicacion
+El sistema entrega una ruta donde se encuentra el servidor
+
+----------------------------------------
+
+Dentro de la carpeta sitio, se crea el archivo cabecera.html
+y footer.html
+
+
+
+--------------- Base de Datos ------------------
+
+Crear la base de datos, para poder ejecutar la base de datos es necesario
+
+1) Para poder hacer uso de la BD es necesario tener el Xampp instalado
+2) Acceder al localhost
